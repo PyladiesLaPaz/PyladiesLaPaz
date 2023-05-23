@@ -46,9 +46,9 @@ If a participant engages in bullying behavior, community representatives may tak
 
  </p>
 </details>
-<details><summary>Estatuto Electoral</summary>
+<details><summary>Estatuto General</summary>
 <p>
-
+<h2>Elecciones</h2>
 Art1.- Fecha de Elecciones:
 Llamar a elecciones Fecha: Se procedera a llamar a elecciones el primer trimestre de cada gestión.
 
@@ -70,18 +70,24 @@ d. En caso de que uno de los líderes no pueda ejercer su función, se proceder�
   
 Art4.- Votacion:
  - Todos los miembros activos al menos 3 meses pueden formar parte de la votación.
+ - Se realizara un Comite de votación (2 organizadores, 2 miembros activos)
+ - El Comité revisará los postulantes habilitados.
+ - El Comite coordinara una fecha para el primer trimestre.
+ 
   
-Art5.- Funciones:
-Los líderes de la comunidad Pyladies La Paz tendrán las siguientes funciones:
+<h2>Funciones</h2>
+ 
+<h3>Los líderes de la comunidad Pyladies La Paz tendrán las siguientes funciones</h3>
 
 - Representar a la comunidad en eventos y actividades públicas.
 - Coordinar y planificar las actividades de la comunidad.
-- Tomar decisiones importantes en nombre de la comunidad.
+- Liderar y aprobar de manera responsable la toma de decisiones dentro de la comunidad.
 - Fomentar y apoyar la participación activa de los miembros en la comunidad.
 - Mantener una comunicación fluida con los miembros de la comunidad.
 - Convocatoria a voluntarios.
+- Cumplir con las responsabilidades y obligaciones establecidas en el estatuto.
   
-Limitaciones de los líderes de la comunidad:
+<h3>Limitaciones de los líderes de la comunidad</h3>
 
 - No tomar decisiones que afecten a la comunidad sin la aprobación de la mayoría de sus miembros.
 - No utilizar los recursos de la comunidad para beneficio propio.
@@ -92,36 +98,37 @@ Sanciones para los líderes de la comunidad:
 - En caso de incumplimiento de sus responsabilidades o limitaciones, podrán ser destituidos de su cargo por decisión de la mayoría de los miembros de la comunidad.
 - En caso de conductas graves, como la promoción de la discriminación o el acoso, podrán ser expulsados de la comunidad de forma inmediata.
   
-Artículo 5: Cese de Funciones de los Líderes
+ <h3>Cese de Funciones de los Líderes</h3>
 
 Los líderes de la comunidad Pyladies La Paz cesarán en sus funciones en los siguientes casos:
 
 - Renuncia voluntaria.
-- Incumplimiento de sus funciones.
+- Incumplimiento del Codigo de Conducta o de sus funciones en general.
 - Por decisión de la mayoría de los miembros activos de la comunidad.
 
-** Sobre los miembros de la Comunidad
+<h3>Sobre los miembros de la Comunidad</h3>
 
 Para poder postular y ser miembros de la comunidad Pyladies La Paz se podra realizar lo siguiente:
 1. Atraves del formulario de llamado a nuevos miembros activos.
-2.. Cualquier persona interesada en unirse a la comunidad puede solicitar su membresía a través de los canales establecidos por la comunidad.
-2. Para poder ser miembro de la comunidad, es necesario compartir los valores y objetivos de la comunidad.
-3. La comunidad evaluará las solicitudes de membresía y se reserva el derecho de aceptar o rechazar cualquier solicitud sin necesidad de proporcionar una explicación.
-4. Para mantener la membresía en la comunidad, es necesario participar activamente en las actividades y proyectos de la comunidad, así como mantener un comportamiento adecuado y respetuoso hacia los demás miembros.
-5. La comunidad se reserva el derecho de suspender o expulsar a cualquier miembro que viole las normas de comportamiento establecidas en el código de conducta.
-6. La comunidad fomenta la diversidad e inclusión y no discrimina a ningún miembro por motivos de género, orientación sexual, raza, religión, edad, discapacidad u otros aspectos similares.
-7. La comunidad promueve el aprendizaje colaborativo y el intercambio de conocimientos entre sus miembros, fomentando un ambiente de respeto y apoyo mutuo.
-8. Los miembros de la comunidad pueden postularse para formar parte del comité de liderazgo, siempre y cuando cumplan con los requisitos establecidos en el estatuto para elección de líderes.
-9. Los miembros que deseen postularse para formar parte del comité de liderazgo deben hacerlo dentro del plazo establecido por la comunidad y presentar su candidatura a través de los canales establecidos.
-10. Los miembros que cumplan con los requisitos y sean seleccionados para formar parte del comité de liderazgo deberán comprometerse a cumplir con las responsabilidades y obligaciones establecidas en el estatuto, así como a trabajar en beneficio de la comunidad y sus miembros.
+2. Cualquier persona interesada en unirse a la comunidad puede solicitar su membresía a través de los canales establecidos por la comunidad.
+3. Para poder ser miembro de la comunidad, es necesario compartir los valores y objetivos de la comunidad.
+4. La comunidad evaluará las solicitudes de membresía y se reserva el derecho de aceptar o rechazar cualquier solicitud sin necesidad de proporcionar una explicación.
+5. Para mantener la membresía en la comunidad, es necesario participar activamente en las actividades y proyectos de la comunidad, así como mantener un comportamiento adecuado y respetuoso hacia los demás miembros.
+6. La comunidad se reserva el derecho de suspender o expulsar a cualquier miembro que viole las normas de comportamiento establecidas en el código de conducta.
+7. Acorde al Código de conducta, la comunidad es un espacio enfocado en apoyar y se centra en promover un espacio seguro y no discrimina a ningún miembro por motivos de género, orientación sexual, raza, religión, edad, discapacidad u otros aspectos similares.
+8. La comunidad promueve el aprendizaje colaborativo y el intercambio de conocimientos entre sus miembros
 
-Como la comunidad Pyladies La Paz no requiere conocimientos previos sobre programación en Python, los filtros de evaluación para postulantes se centrarán en diversas habilidades y cualidades que puedan contribuir al desarrollo y crecimiento de la comunidad. Algunos posibles filtros de evaluación podrían incluir:
 
-- Interés en la tecnología y la programación: Los postulantes deben demostrar un interés genuino en la tecnología y la programación, ya sea a través de su formación académica o de su tiempo libre. Esto se puede evaluar mediante preguntas sobre los proyectos personales o profesionales que hayan emprendido.
-- Comunicación efectiva: La capacidad de comunicarse de manera efectiva es fundamental para ser un miembro activo y valioso de la comunidad. Los postulantes pueden ser evaluados a través de su capacidad para articular sus ideas y dar feedback de manera clara y concisa.
-- Colaboración y trabajo en equipo: se valora la colaboración y el trabajo en equipo. Los postulantes pueden ser evaluados a través de su capacidad para trabajar en equipo, ser respetuosos con los demás miembros de la comunidad y estar dispuestos a ayudar y colaborar en proyectos conjuntos.
-- Compromiso y responsabilidad: Los miembros de la comunidad deben estar comprometidos con el crecimiento y desarrollo de la comunidad y ser responsables con sus compromisos. Los postulantes pueden ser evaluados a través de su historial de compromisos y responsabilidades en otros proyectos o actividades.
+<h3>Nuevos Miembros</h3> 
+En la Comunidad Pyladies La Paz se tienen diversos puntos para tomarse como filtros en la eleccion de nuevos miembros de la Comunidad.
+
+- Compromiso: Los miembros de la comunidad estan concientes de que es un espacio en el cual se debe invertir tiempo para realizar las diversas actividades en pro del crecimiento y desarrollo de la comunidad.
+- Interés: en la comunidad, en la tecnología y la programación. Los postulantes demostrarán sus logros académicos, personales, proyectos desarrollados o a ser desarrollados que esten relacionados a tecnología, programación.
+- Comunicación efectiva: La capacidad de comunicarse de manera efectiva, con actitud positiva es fundamental para ser un miembro activo y valioso de la comunidad. Tener espacios para intercambiar ideas servirá como base para conocer a quienes desean formar parte de la comunidad.
+- Colaboración y trabajo en equipo: La predisposición de colaborar, trabajar junto a otros miembros de la comunidad, se demostrará en base a actividades pasadas realizadas.
+- Responsabilidad: Los postulantes pueden ser evaluados a través de su historial de compromisos y responsabilidades en otros proyectos o actividades.
 - Creatividad e innovación: se valora la creatividad y la innovación en la resolución de problemas. Los postulantes pueden ser evaluados a través de su capacidad para pensar fuera de la caja y proponer soluciones innovadoras a los desafíos que enfrenta la comunidad.
+
   
 </p>
 </details>
