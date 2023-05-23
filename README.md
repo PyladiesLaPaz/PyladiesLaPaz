@@ -32,16 +32,19 @@ El abuso incluye comentarios ofensivos verbales/electrónicos relacionados con c
 
 Si un participante se involucra en una conducta de acoso, los representantes de la comunidad pueden tomar las medidas razonables que consideren apropiadas, como advertir al agresor, expulsión de cualquier evento de PyLadies o lista de correo general que expulsa a las comunidades de Python, foros de discusión y otros canales de comunicación electrónica para resolver el problema. Esto puede incluir la expulsión de la membresía del grupo de PyLadies Meetup.
 
- English Version
+## English Version
+ 
 Pyladies is dedicated to providing a respectful community free of any kind of abuse. We do not tolerate harassment or intimidation of any member of the community in any way. This not only extends to members of local PyLadies communities, but to anyone who chooses to get involved in the PyLadies community through events or interactions.
 
 The abuse includes verbal / electronic offensive comments related to characteristics or personal choices, images or sexual comments in public or online spaces, deliberate intimidation, bullying, harassment, follow-up, harassment of photographs or recordings, sustained interruption of conversations, conversations through of messaging, electronic meetings, physical meetings. Meetings or other events, inappropriate physical contact or unwanted sexual attention. Participants who are asked to stop any harassing or intimidating behavior are expected to comply immediately.
 
 If a participant engages in bullying behavior, community representatives may take reasonable measures that they deem appropriate, such as warning the offender, expulsion from any PyLadies event, or general mailing list expelling from Python communities, discussion forums and other electronic communication channels to solve the problem. This may include expulsion from the PyLadies Meetup group membership.
   
-
+ </p>
+ <p>
 > Está comunidad se construye con el aporte y participación de las personas que desean aprender y compartir su conocimiento.
-</p>
+
+ </p>
 </details>
 <details><summary>Estatuto Electoral</summary>
 <p>
